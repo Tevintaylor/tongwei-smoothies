@@ -6,7 +6,7 @@
           <router-link to="">
               <span class="nav-title"> Tong Wei 佟维 Smoothies</span>
           </router-link>
-          <a href="" class="btn-floating btn-large halfway-fab green">
+          <a href="" class="btn-floating btn-large halfway-fab red">
              <router-link to="">
                 <i class="material-icons">add</i>
              </router-link>
